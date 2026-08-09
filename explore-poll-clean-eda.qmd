@@ -1,7 +1,7 @@
 ---
 title: "Exploratory Data Analysis — Presidential Polling and Results"
 subtitle: "Group project template"
-author: "Your names here"
+author: "Jasper, Patrick, Lachlan, Daniel"
 date: today
 format:
   html:
