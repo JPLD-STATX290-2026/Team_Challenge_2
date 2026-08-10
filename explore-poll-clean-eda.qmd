@@ -168,6 +168,9 @@ decided voters only? How would you tell?
 :::
 
 *Your answer:*
+The choice of the denominator would of likely been done by the people who conducted the polling or potentially a team of people who's job was to transform the responses into data.
+
+The percentages appear to be of all respondents. We can tell this by the fact that for all the rows, the percentages of primary candidate 1 + primary candidate 2 + other + undecided adds up to 100, meaning each primary candidate percentage is out of all respondents.
 
 # How much variability is there in variables measured?
 
