@@ -82,9 +82,13 @@ implications of documentation lagging the data?
 ```{r}
 #| label: load
 #| message: false
-polls_2016_raw <- read_csv(glue("{raw_dir}/state_polls_2016.csv"))
+polls_2016_raw <- read_csv(glue("data/raw/state_polls_2016.csv"))
+polls_2012_raw <- read_csv(glue("data/raw/state_polls_2012.csv"))
+president_1976_2024 <- read_csv(glue("data/raw/1976-2024-president.csv"))
 
 glimpse(polls_2016_raw)
+glimpse(polls_2012_raw)
+glimpse(president_1976_2024)
 
 ```
 
