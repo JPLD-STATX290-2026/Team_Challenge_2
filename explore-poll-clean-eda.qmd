@@ -99,8 +99,8 @@ What does that tell you about the contents of the column?
 Are there any columns that should be cleaned further? If so, what needs to be done?
 :::
 
-*Your answer:*
 
+state_polls_2016, other requires convert to numerical
 ---
 
 # Who / what is represented?
