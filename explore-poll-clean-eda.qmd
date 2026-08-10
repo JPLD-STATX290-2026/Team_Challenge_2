@@ -112,6 +112,10 @@ single row correspond to?)
 :::
 
 *Your answer:*
+The unit of observation for both the polls_2012_raw file and the polls_2016_raw file is the voting intentions of the respondents to specific polls in specific regions. Each row represents
+the percentage of respondents who intended to vote for each primary candidate, as well as the percentage who intend to vote for an independent party. Each row also indicates in what method to the respondents answered along with other important information.
+
+The unit of observation for the president_1976_2024 file is the different president candidates from 1976-2024. Each row states the candidates party, state, and another important information.
 
 ```{r}
 #| label: poll-coverage-2016
